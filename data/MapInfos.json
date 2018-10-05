@@ -4,11 +4,11 @@ null,
 {"id":2,"expanded":false,"name":"Room","order":2,"parentId":0,"scrollX":540.6666666666666,"scrollY":600.3333333333334},
 {"id":3,"expanded":false,"name":"港口","order":3,"parentId":0,"scrollX":540.6666666666666,"scrollY":412.3333333333333},
 {"id":4,"expanded":false,"name":"休息室","order":4,"parentId":0,"scrollX":540.6666666666666,"scrollY":316.3333333333333},
-{"id":5,"expanded":false,"name":"走廊","order":5,"parentId":0,"scrollX":894,"scrollY":302.3333333333333},
-{"id":6,"expanded":true,"name":"塔楼","order":6,"parentId":0,"scrollX":540.6666666666666,"scrollY":412.3333333333333},
+{"id":5,"expanded":false,"name":"走廊","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"塔楼","order":6,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":7,"expanded":false,"name":"后勤控制室","order":7,"parentId":0,"scrollX":546,"scrollY":302.3333333333333},
 {"id":8,"expanded":false,"name":"主控制室","order":8,"parentId":0,"scrollX":540.6666666666666,"scrollY":307.6666666666667},
 {"id":9,"expanded":false,"name":"电梯间","order":9,"parentId":0,"scrollX":546,"scrollY":307.6666666666667},
-{"id":10,"expanded":false,"name":"仓库层电梯间","order":10,"parentId":0,"scrollX":546,"scrollY":307.6666666666667},
-{"id":11,"expanded":false,"name":"小说家幻境","order":11,"parentId":0,"scrollX":540.6666666666666,"scrollY":307.6666666666667}
+{"id":10,"expanded":false,"name":"仓库层电梯间","order":10,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"小说家幻境","order":11,"parentId":0,"scrollX":832,"scrollY":640}
 ]
