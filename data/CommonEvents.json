@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":101,"indent":0,"parameters":["Actor1",0,0,2]},{"code":401,"indent":0,"parameters":["使用了港口的ID卡"]},{"code":0,"indent":0,"parameters":[]}],"name":"使用港口ID卡","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":102,"indent":0,"parameters":[["使用","丢弃","算了"],-1,0,1,0]},{"code":402,"indent":0,"parameters":[0,"使用"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"丢弃"]},{"code":102,"indent":1,"parameters":[["确定","取消"],1,0,2,0]},{"code":402,"indent":1,"parameters":[0,"确定"]},{"code":126,"indent":2,"parameters":[1,1,0,1]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"取消"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"算了"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"使用港口ID卡","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
